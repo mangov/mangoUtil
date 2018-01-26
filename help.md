@@ -1,4 +1,6 @@
 # mangoUtil
+
+一个吧数据稻城Excel,Doc,Txt,XML,PDF这种格式的工具
 主要包含两个模块，mango和mango-client:
 1.mango模块是项目的核心，用于实现导出。 
 2.mango-client模块是mango使用的一个实现，包括一个web版本简单实例，可以部署到容器中运行。
